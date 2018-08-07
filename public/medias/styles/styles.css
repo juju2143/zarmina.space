@@ -1,0 +1,51 @@
+@font-face {
+    font-family: 'PxPlus IBM VGA8';
+    src: url('../fonts/PxPlus_IBM_VGA8.eot');
+    src: url('../fonts/PxPlus_IBM_VGA8.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/PxPlus_IBM_VGA8.woff2') format('woff2'),
+        url('../fonts/PxPlus_IBM_VGA8.woff') format('woff'),
+        url('../fonts/PxPlus_IBM_VGA8.ttf') format('truetype'),
+        url('../fonts/PxPlus_IBM_VGA8.svg#PxPlus_IBM_VGA8') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body
+{
+    background: black;
+    color: white;
+    font-family: sans-serif;
+}
+
+main
+{
+    display: block;
+    max-width: 800px;
+    margin: auto;
+}
+
+h1, h2, header, footer, main article nav
+{
+    font-family: 'PxPlus IBM VGA8';
+    text-align: center;
+}
+
+h3
+{
+    font-family: 'PxPlus IBM VGA8';
+}
+
+header nav, footer
+{
+    margin: 1em;
+}
+
+a
+{
+    color: #99bbff;
+}
+
+main article nav
+{
+    font-size: 24px;
+}
