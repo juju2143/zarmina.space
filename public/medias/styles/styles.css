@@ -24,7 +24,7 @@ main
     margin: auto;
 }
 
-h1, h2, header, footer, main article nav
+h1, h2, header, footer, nav
 {
     font-family: 'PxPlus IBM VGA8';
     text-align: center;
@@ -45,7 +45,12 @@ a
     color: #99bbff;
 }
 
-main article nav
+main nav
 {
-    font-size: 24px;
+    font-size: 24pt;
+}
+
+sup
+{
+    font-size: 12pt;
 }

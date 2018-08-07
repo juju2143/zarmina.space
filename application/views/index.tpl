@@ -14,26 +14,26 @@
             <!--{/if}-->
         <!--{/foreach}-->
     <!--{/if}-->
+    <!--{if isset($a_embedded_javascript) && is_array($a_embedded_javascript)}-->
+        <!--{foreach from=$a_embedded_javascript item=embeddedJS}-->
+            <script type="text/javascript">
+    <!--{$embeddedJS}-->
+            </script>
+        <!--{/foreach}-->
+    <!--{/if}-->
 </head>
 <body>
 <header>
 <nav>
-<a href="<!--{$url_base}-->">Index</a> - À propos - <a href="<!--{$url_base}-->chapitre/1">Lire</a> - Personnages - Blog - English
+<!--{include file="$lang/common/nav.tpl"}-->
 </nav>
 </header>
 <main>
 <!--{include file=$template}-->
 </main>
 <footer>
-&#169; 2012-2018 J. P. Savard - <a href="#">Haut</a>
+<!--{include file="$lang/common/footer.tpl"}-->
 </footer>
-<!--{if isset($a_embedded_javascript) && is_array($a_embedded_javascript)}-->
-    <!--{foreach from=$a_embedded_javascript item=embeddedJS}-->
-        <script type="text/javascript">
-<!--{$embeddedJS}-->
-        </script>
-    <!--{/foreach}-->
-<!--{/if}-->
 <!--{if isset($a_script) && is_array($a_script)}-->
     <!--{foreach from=$a_script item=script}-->
 		<!--{if is_array($script)}-->

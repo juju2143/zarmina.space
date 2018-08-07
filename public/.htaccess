@@ -43,7 +43,7 @@ RewriteEngine On
 </IfModule>
 
 # Installation directory
-RewriteBase /~juju/koseven-3.3.7/public/
+RewriteBase /~juju/zarmina.space/public/
 
 # Protect hidden files from being viewed
 <Files .*>

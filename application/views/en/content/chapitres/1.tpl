@@ -1,5 +1,4 @@
-<!--{assign "prev" "" scope=parent}-->
-<!--{assign "next" "chapitre/2" scope=parent}-->
+<!--{assign "next" "$url_lang/chapitre/2" scope=parent}-->
 <!--{assign "date" "2018/08/04" scope=parent}-->
 <hgroup>
 <h1>chapitre 0001</h1>

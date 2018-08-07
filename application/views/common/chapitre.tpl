@@ -1,9 +1,12 @@
 <article>
-<!--{include file="content/chapitres/$id.tpl"}-->
+<!--{include file="$lang/content/chapitres/$id.tpl"}-->
 <nav>
-<a href="<!--{$url_base}--><!--{$prev}-->">&lt;==</a>
-<!--{$id}-->
-<a href="<!--{$url_base}--><!--{$next}-->">==&gt;</a>
+<!--{if isset($prev)}-->
+<a href="<!--{$prev}-->">&lt;==</a>
+<!--{/if}-->
+<!--{if isset($next)}-->
+<a href="<!--{$next}-->">==&gt;</a>
+<!--{/if}-->
 </nav>
 <!--{if !isset($nocomment)}-->
 <section>
