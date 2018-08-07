@@ -1,1 +1,1 @@
-&#169; 2012-2018 J. P. Savard - <a href="#">Haut</a>
+&#169; 2012-2018 J. P. Savard - <a href="#">Up</a>
