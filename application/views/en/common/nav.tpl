@@ -1,1 +1,1 @@
-<a href="<!--{$url_lang}-->">Index</a> - <a href="<!--{$url_lang}-->page/apropos">About</a> - <a href="<!--{$url_lang}-->chapitre/1">Read</a> - Characters - <a href="<!--{$url_lang}-->blog">News</a> - <a href="<!--{$url_base}-->fr">Français</a>
+<a href="<!--{$url_lang}-->">Index</a> - <a href="<!--{$url_lang}-->page/apropos">About</a> - <a href="<!--{$url_lang}-->chapitre/1">Read</a> - <a href="<!--{$url_lang}-->blog">News</a> - <a href="<!--{$url_base}-->fr">Français</a>
