@@ -1,4 +1,3 @@
-<!--{assign "next" "$url_lang/chapitre/2" scope=parent}-->
 <!--{assign "date" "2018/08/04" scope=parent}-->
 <hgroup>
 <h1>chapitre 0001</h1>
@@ -31,8 +30,8 @@
 <p>The planet is getting closer and closer. More pieces fall, as if we had removed the room from below in a game of Jenga.</p>
 
 <p>- "Huh?" exclaims his friend.
-- "I'm losing control ..."
-- "Oh no."</p>
+<br/>- "I'm losing control ..."
+<br/>- "Oh no."</p>
 
 <p>The two colleagues fall unconscious.</p>
 </section>
