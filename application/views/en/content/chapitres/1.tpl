@@ -5,34 +5,34 @@
 <h2>road trip vers l’inconnu</h2>
 </hgroup>
 <section>
-<p>Ceci est l’histoire de deux gars, assis plus ou moins confortablement dans leur siège de vaisseau spatial qui sent encore le neuf. Deux astronautes qui savaient pas trop dans quoi ils s'embarquent, mais ils ont embarqué. On dirait que leur road trip de l’espace tire pas mal à sa fin comme leur destination apparaît de plus en plus gros devant eux.</p>
+<p>This is the story of two guys sitting more or less comfortably in their spaceship seat that still smells new. Two astronauts did not knew what they were getting into, but they got on board. It looks like their road trip from space is coming to an end as their destination appears bigger and bigger in front of them.</p>
 
-<p>- “Voici Gliese 581 g, droit devant”, s’exclame l’un d’eux.
-<br/>- “Wow. C’est magnifique”, répondit l’autre, bouche-bée devant le windshield du vaisseau.
-<br/>- “N’est-ce pas? Zarmina, comme on l’a surnommée sur Terre. Notre destination. C’est quand même incroyable que l’humanité ait été capable de rejoindre une planète aussi lointaine. On aurait jamais été capable sans les avancements scientifiques des quelques dernières années.”
-<br/>- “C’est vrai. C’est fou, quand on y pense.”</p>
+<p>- "Here Gliese 581g, right in front", exclaims one of them.
+<br/>- "Wow. It's beautiful", replied the other, open-mouthed in front of the ship's windshield.
+<br/>- "Isn't it? Zarmina, as we call it on Earth. Our destination. It's still incredible that humanity has been able to reach a planet as far away. We would never have been able without the scientific advancements of the past few years."
+<br/>- "That is true. It's crazy, when you think about it."</p>
 
-<p>Les détails sur cette planète se font plus clairs que n’importe quel astronome aurait pu voir de la Terre. Découverte en 2010 par un certain Steve Vogt, un professeur d'astronomie et d'astrophysique en Californie (qui soit dit en passant l’a surnommé d’après sa femme, Zarmina), et confondue plus tard avec des taches solaires, ça aura pris plusieurs années avant qu’on confirme l'existence de cette planète, et même là on était pas trop sûr au moment du départ du vaisseau. Mais, si elle existe, elle a toujours été considérée comme l’une des premières destinations en dehors de notre système solaire où on pourrait y trouver de la vie.</p>
+<p>The details on this planet are clearer than any astronomer could have seen from Earth. Discovered in 2010 by a certain Steve Vogt, a professor of astronomy and astrophysics in California (who by the way named it after his wife, Zarmina), and confused later with sunspots, it took several years before the existence of this planet was confirmed, and even there we were not too sure when the ship departed. But, if it exists, it has always been considered one of the first destinations outside our solar system where we could find life.</p>
 
-<p>La planète en question est quelque peu plus grosse que la Terre, mais son soleil, une naine rouge, est définitivement plus petite. Ses planètes compensent avec une orbite plus près et plus rapide, ce qui fait que Zarmina montre toujours la même face à son soleil, telle notre Lune à notre planète, mais elle reste toujours à une distance parfaite, un peu sur le froid mais pas trop. Du coup, Zarmina montre un magnifique dégradé du bleu plus près du soleil à un blanc neige de l’autre côté. Une vue de rêve et des conditions parfaites pour jouer au hockey. Ou pour faire de la recherche ou un truc comme ça.</p>
+<p>The planet in question is somewhat larger than the Earth, but its sun, a red dwarf, is definitely smaller. Its planets compensate with a nearer and faster orbit, so that Zarmina always shows the same face to its sun, like our Moon to our planet, but it always remains at a perfect distance, a little on the cold but not too much. So Zarmina shows a beautiful gradient of blue closer to the sun to a snow white on the other side. A dream view and perfect conditions to play hockey. Or to do some research or something like that.</p>
 
-<p>- “C’était quoi ça?” s’exclame l’un des deux astronautes.</p>
+<p>- "What was that?" Exclaims one of the two astronauts.</p>
 
-<p>Un bruit sourd et métallique se fait entendre et plusieurs voyants se mettent à clignoter sur la console.</p>
+<p>A metallic thud is heard and several lights begin to flash on the console.</p>
 
-<p>- ”Aucune idée”, répond son collègue. ”Sûrement quelque chose qui est tombé. Sinon il y a le voyant Check Engine qui vient de s’allumer, c’est normal?”
-<br/>- “Ça doit. Je pense que le vaisseau est dû pour une petite visite au garage.”
-<br/>- “Pas mal plus qu’une visite au garage, pour moi…”</p>
+<p>- "No idea," replies his colleague. "Surely something that fell. If not, there is the Check Engine light that came on, is that normal?"
+<br/>- "It must. I think the ship is due for a little visit to the garage. "
+<br/>- "Definitely more than a visit to the garage, for me..."</p>
 
-<p>Le bruit recommence de plus belle. Définitivement un problème dans le vaisseau, un composant a dû lâcher. Le vaisseau est neuf, pourtant, quoiqu’on s’est jamais rendu aussi loin dans l’espace, ça n’a probablement pas tenu le coup. Ça devient de plus en plus louche.</p>
+<p>The noise starts again. Definitely a problem in the ship, a component probably broke. The ship is new, though, although we've never been so far in space, it probably did not hold up. It's getting more and more fishy.</p>
 
-<p>- “Oh non”, dit le pilote.</p>
+<p>- "Oh no," said the pilot.</p>
 
-<p>La planète se rapproche de plus en plus vite. Plus de pièces tombent, comme si on avait enlevé la pièce du dessous dans une partie de Jenga.</p>
+<p>The planet is getting closer and closer. More pieces fall, as if we had removed the room from below in a game of Jenga.</p>
 
-<p>- “Hein?” s’exclame son compère.
-<br/>- “Je perds le contrôle...”
-<br/>- “Oh non.”</p>
+<p>- "Huh?" exclaims his friend.
+- "I'm losing control ..."
+- "Oh no."</p>
 
-<p>Les deux collègues tombent inconscients.</p>
+<p>The two colleagues fall unconscious.</p>
 </section>
