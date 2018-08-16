@@ -1,11 +1,11 @@
-<h1>Zarmina<sup style="font-size:12pt;">v2.0β</sup></h1>
+<h1>Zarmina<sup style="font-size:12pt;">v2.0</sup></h1>
 <h2>by J. P. Savard</h2>
 <section id="intro">
-Zarmina is a story that combines comedy, science fiction and fantasy taking place on the planet of the same name. Discover the adventures of Miyuki and his friends as they encounter things and situations they have never seen before and use their magic to find a viable solution!
+Zarmina is a story that combines comedy, science fiction and fantasy that takes place on a distant planet of the same name. Discover the adventures of Zarmina native Miyuki and her friend Daisuke as they encounter things and situations they have never seen before! They discover humans from the Earth, who knows what will happen? Will the two species get along? The answer in this online novel!
 </section>
 
 <h2>Chapters</h2>
-<section>
+<section id="chapitres">
 <!--{foreach $chapitres as $chapitre}-->
 <a href="<!--{$url_lang}-->chapitre/<!--{$chapitre}-->"><!--{$chapitre}--></a>
 <!--{/foreach}-->
