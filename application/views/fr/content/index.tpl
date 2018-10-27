@@ -1,4 +1,4 @@
-<h1>Zarmina<sup style="font-size:12pt;">v2.0</sup></h1>
+<h1 class="hidden">Zarmina<sup style="font-size:12pt;">v2.0</sup></h1>
 
 <!--{include file="images/titles/1.tpl"}-->
 
