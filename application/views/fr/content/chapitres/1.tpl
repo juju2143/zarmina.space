@@ -3,6 +3,9 @@
 <h1>chapitre 0001</h1>
 <h2>road trip vers l’inconnu</h2>
 </hgroup>
+
+<!--{include file="music/otherworld.tpl"}-->
+
 <section>
 <p>Ceci est l’histoire de deux gars, assis plus ou moins confortablement dans leur siège de vaisseau spatial qui sent encore le neuf. Deux astronautes qui ne savaient pas trop dans quoi ils s'embarquaient, mais ils ont embarqué. On dirait que leur road trip de l’espace tire pas mal à sa fin comme leur destination apparaît de plus en plus gros devant eux.</p>
 
@@ -27,7 +30,7 @@
 
 <p>Le bruit recommence de plus belle. Définitivement un problème dans le vaisseau, un composant a dû lâcher. Le vaisseau est neuf, pourtant, quoiqu’on s’est jamais rendu aussi loin dans l’espace, ça n’a probablement pas tenu le coup. Ça devient de plus en plus louche.</p>
 
-<p>- “Oh non”, dit le pilote.</p>
+<p>- «&nbsp;Oh non&nbsp;», dit le pilote.</p>
 
 <p>La planète se rapproche de plus en plus vite. Plus de pièces tombent, comme si on avait enlevé la pièce du dessous dans une partie de Jenga.</p>
 
