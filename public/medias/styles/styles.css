@@ -30,6 +30,11 @@ h1, h2, header, footer, nav
     text-align: center;
 }
 
+h1
+{
+    display: none;
+}
+
 h3, section#chapitres
 {
     font-family: 'PxPlus IBM VGA8';
@@ -53,4 +58,20 @@ main nav
 sup
 {
     font-size: 12pt;
+}
+
+figure
+{
+    margin: 0;
+}
+
+figure img
+{
+    max-width: 100%;
+}
+
+figcaption
+{
+    text-align: right;
+    font-size: 75%;
 }
