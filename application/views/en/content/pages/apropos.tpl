@@ -4,7 +4,7 @@
 </section>
 <section>
 <h2>The Author</h2>
-<p>J. P. Savard, or Julien Paul Savard-Gagnon on his birth certificate, has been a professional web programmer since he was 12 years old. He sees the Web page as an art and dreams of offering humankind a multimedia experience out of the ordinary. Inspired by such works as <em>Homestuck</em>, <em>In a Galaxy near you</em> or <em>The Hitchhiker's Guide to the Galaxy</em> as well as all the information contained in Wikipedia, he creates on a day of spring 2012 the world of Zarmina based on the Wikipedia page of the planet in question and an excess of imagination and dream.</p>
+<p>J. P. Savard has been a professional web programmer since he was 12 years old. He sees the Web page as an art and dreams of offering humankind a multimedia experience out of the ordinary. Inspired by such works as <em>Homestuck</em>, <em>In a Galaxy near you</em> or <em>The Hitchhiker's Guide to the Galaxy</em>, <em>My Little Pony</em> as well as <em>Wikipedia</em>, he creates on a day of spring 2012 the world of Zarmina based on the Wikipedia page of the planet in question and an excess of imagination and dream.</p>
 </section>
 <section>
 <h2>Credits</h2>
@@ -17,5 +17,8 @@ J. P. Savard
 <h3>Programming</h3>
 J. P. Savard
 <h3>Artists</h3>
-J. P. Savard
+PurpleBlackKiwi
+<br/>NASA
+<h3>Music</h3>
+DJ Omnimaga
 </section>

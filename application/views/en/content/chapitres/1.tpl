@@ -3,8 +3,13 @@
 <h1>chapitre 0001</h1>
 <h2>road trip vers l’inconnu</h2>
 </hgroup>
+
+<!--{include file="music/otherworld.tpl"}-->
+
 <section>
 <p>This is the story of two guys sitting more or less comfortably in their spaceship seats that still smells like new. Two astronauts that did not knew what they were getting into, but they got on board. It looks like their road trip from space is coming to an end as their destination appears bigger and bigger in front of them.</p>
+
+<!--{include file="images/ch1-1.tpl"}-->
 
 <p>- "Here Gliese 581 g, right in front", exclaims one of them.
 <br/>- "Wow. It's beautiful", replied the other, open-mouthed in front of the ship's windshield.
