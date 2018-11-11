@@ -4,6 +4,7 @@ nbproject
 *.iml
 out
 gen
+.vscode
 
 # Kohana template
 application/cache/*
@@ -12,3 +13,5 @@ application/logs/*
 # Composer
 application/vendor/
 composer.lock
+
+.DS_Store

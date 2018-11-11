@@ -1,6 +1,6 @@
 <?php
 return array(
-	'styles' => array('styles'),
+	'styles' => array('styles', 'print'),
 	'scripts' => array(),
 	'modules' => array(),
 );
