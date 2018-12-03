@@ -16,8 +16,9 @@ J. P. Savard
 J. P. Savard
 <h3>Programming</h3>
 J. P. Savard
-<h3>Artists</h3>
+<h3>Art</h3>
 PurpleBlackKiwi
+<br/>Katsuke
 <br/>NASA
 <h3>Music</h3>
 DJ Omnimaga

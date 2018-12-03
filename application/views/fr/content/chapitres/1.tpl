@@ -1,4 +1,6 @@
 <!--{assign "date" "2018/08/04" scope=parent}-->
+<!--{assign "prev" "ep1" scope=parent}-->
+<!--{*assign "next" "2" scope=parent*}-->
 <hgroup>
 <h1>chapitre 0001</h1>
 <h2>road trip vers l’inconnu</h2>

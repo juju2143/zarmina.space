@@ -9,12 +9,12 @@ class Controller_Index extends Kohana_Controller_Smarty {
 		array_walk($blogs, function(&$a, $b){
 			$a = str_ireplace('.tpl', '', $a);
 		});
-		$chapitres = array_diff(scandir(APPPATH.'views'.DIRECTORY_SEPARATOR.$lang.DIRECTORY_SEPARATOR.'content'.DIRECTORY_SEPARATOR.'chapitres', SCANDIR_SORT_ASCENDING), ['.','..']);
+		/*$chapitres = array_diff(scandir(APPPATH.'views'.DIRECTORY_SEPARATOR.$lang.DIRECTORY_SEPARATOR.'content'.DIRECTORY_SEPARATOR.'chapitres', SCANDIR_SORT_ASCENDING), ['.','..']);
 		array_walk($chapitres, function(&$a, $b){
 			$a = str_ireplace('.tpl', '', $a);
-		});
+		});*/
 		$this->smarty->assign('blogs', array_slice($blogs, 0, 5));
-		$this->smarty->assign('chapitres', $chapitres);
+		//$this->smarty->assign('chapitres', $chapitres);
 		$this->smarty->assign('template', $lang.'/content/index.tpl');
 	}
 
