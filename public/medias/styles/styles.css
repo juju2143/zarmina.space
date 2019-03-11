@@ -76,3 +76,23 @@ figcaption
     text-align: right;
     font-size: 75%;
 }
+
+#logos
+{
+    text-align: center;
+}
+
+#logos img
+{
+    vertical-align: middle;
+}
+
+#news article p
+{
+    display: none;
+}
+
+#news article p:first-of-type
+{
+    display: block;
+}
