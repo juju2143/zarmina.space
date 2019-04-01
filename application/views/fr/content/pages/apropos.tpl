@@ -20,10 +20,12 @@ J. P. Savard
 J. P. Savard
 <h3>Programmation</h3>
 J. P. Savard
-<h3>Art</h3>
-PurpleBlackKiwi
-<br/>Katsuke
+<h3>Art/Photos</h3>
+<a href="https://twitter.com/purpleblackkiwi">PurpleBlackKiwi</a>
+<br/><a href="https://www.facebook.com/KatsukeArtwork/">Katsuke</a>
 <br/>NASA
+<!--{*<br/>Agence spatiale canadienne*}-->
 <h3>Musique</h3>
-DJ Omnimaga
+<a href="https://djomnimaga.bandcamp.com>">DJ Omnimaga</a>
+<br/><a href="https://soundcloud.com/user-421813266">DJ Kotu</a>
 </section>
