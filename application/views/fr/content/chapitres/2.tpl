@@ -104,9 +104,9 @@
 
 <p>Et sur ce, les deux compères s’en vont faire un tour dehors afin d’avoir réponse à leur questions, malgré une migraine chez Miyuki.</p>
 
-<p>Soudain, le rubis s'illumine à une vitesee et une intensité folle, puis explose. Tous meurent sur le coup. Les corps ne sont retrouvés que quelques semaines plus tard et eurent droit à des funérailles de héros.</p>
+<!--{*p>Soudain, le rubis s'illumine à une vitesee et une intensité folle, puis explose. Tous meurent sur le coup. Les corps ne sont retrouvés que quelques semaines plus tard et eurent droit à des funérailles de héros.</p>
 
-<p>Le vaisseau du précédent chapitre a également explosé en entrant dans l'athmosphère de la planète et personne s'en est rendu compte, seulement une pluie de débris dans un désert dans la partie chaude de la planète. Après quelques semaines sans nouvelles des astronautes, la Terre assument leur mort et leur firent des funérailles nationales.</p>
+<p>Le vaisseau du précédent chapitre a également explosé en entrant dans l'athmosphère de la planète et personne s'en est rendu compte, seulement une pluie de débris dans un désert dans la partie chaude de la planète. Après quelques semaines sans nouvelles des astronautes, la Terre assument leur mort et leur firent des funérailles nationales.</p-->
 
 <h2>Fin.</h2>
 </section>
