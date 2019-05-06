@@ -26,6 +26,11 @@ J. P. Savard
 <br/>NASA
 <!--{*<br/>Agence spatiale canadienne*}-->
 <h3>Musique</h3>
-<a href="https://djomnimaga.bandcamp.com>">DJ Omnimaga</a>
+<a href="https://djomnimaga.bandcamp.com">DJ Omnimaga</a>
 <br/><a href="https://soundcloud.com/user-421813266">DJ Kotu</a>
+<h3>Commanditaires</h3>
+<a href="https://codewalr.us"><img src="<!--{$url_medias}-->images/logos/codewalrus5.png" alt="Codewalr.us" width="300" /></a>
+<br/><br/><a href="https://sookmedia.com"><img src="<!--{$url_medias}-->images/logos/logo_sook_media_500x500_transparent.png" alt="Sook Media" height="100" /></a>
+<br/>
+<br/>Fil de Cristal
 </section>
