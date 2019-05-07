@@ -32,5 +32,5 @@ J. P. Savard
 <a href="https://codewalr.us"><img src="<!--{$url_medias}-->images/logos/codewalrus5.png" alt="Codewalr.us" width="300" /></a>
 <br/><br/><a href="https://sookmedia.com"><img src="<!--{$url_medias}-->images/logos/logo_sook_media_500x500_transparent.png" alt="Sook Media" height="100" /></a>
 <br/>
-<br/>Fil de Cristal
+<br/><a href="https://www.facebook.com/Fildecristal/">Fil de Cristal</a>
 </section>
