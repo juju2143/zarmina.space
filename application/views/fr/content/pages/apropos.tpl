@@ -24,7 +24,7 @@ J. P. Savard
 <a href="https://twitter.com/purpleblackkiwi">PurpleBlackKiwi</a>
 <br/><a href="https://www.facebook.com/KatsukeArtwork/">Katsuke</a>
 <br/>NASA
-<!--{*<br/>Agence spatiale canadienne*}-->
+<br/>Agence spatiale canadienne
 <h3>Musique</h3>
 <a href="https://djomnimaga.bandcamp.com">DJ Omnimaga</a>
 <br/><a href="https://soundcloud.com/user-421813266">DJ Kotu</a>

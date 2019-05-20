@@ -1,7 +1,7 @@
 <!--{assign "orig_date" "2018/11/11" scope=parent}-->
 <!--{assign "date" "2019/04/01" scope=parent}-->
 <!--{assign "prev" "1" scope=parent}-->
-<!--{*assign "next" "3" scope=parent*}-->
+<!--{assign "next" "3" scope=parent}-->
 <hgroup>
 <h1>chapitre 0002</h1>
 <h2>je suis grande maintenant</h2>
